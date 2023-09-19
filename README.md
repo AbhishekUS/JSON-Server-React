@@ -20,10 +20,13 @@ Insert a link to a live demo of your project here.
 ## Features
 
 - Browse a list of products
-- Add products to the cart
-- Adjust product quantities in the cart
-- Remove products from the cart
-- Simulate a checkout process
+- Sort by Price:
+  * Ascending (Lowest to Highest)
+  * Descending (Highest to Lowest)
+- Availability:
+  * In Stock
+  * Out of Stock
+
 
 ## Installation
 
