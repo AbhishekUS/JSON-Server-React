@@ -113,4 +113,4 @@ If you'd like to contribute to this project, feel free to fork the repository an
 This project is licensed under the [MIT License](LICENSE).
 ```
 
-Make sure to replace the placeholders (e.g., `https://github.com/your-username/react-simple-store.git`) with the actual links, and customize any other information as per your project. Also, remember to provide an actual live demo link if your project is hosted somewhere.
+Make sure to replace the placeholders (e.g., `https://github.com/AbhishekUS/react-simple-store.git`) with the actual links, and customize any other information as per your project. Also, remember to provide an actual live demo link if your project is hosted somewhere.
