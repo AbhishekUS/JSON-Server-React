@@ -15,7 +15,7 @@ This is a simple e-commerce store project built with React and powered by JSON S
 
 ## Demo
 
-Insert a link to a live demo of your project here.
+Coming soon...
 
 ## Features
 
