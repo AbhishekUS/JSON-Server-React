@@ -30,7 +30,7 @@ Insert a link to a live demo of your project here.
 1. Clone the repository:
 
 ```
-git clone https://github.com/your-username/react-simple-store.git
+git clone https://github.com/AbhishekUS/react-simple-store.git
 ```
 
 2. Install dependencies:
