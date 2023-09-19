@@ -1,6 +1,3 @@
-Certainly! Below is an example of a README.md file for your React simple store project using JSON server:
-
-```markdown
 # React Simple Store Project
 
 This is a simple e-commerce store project built with React and powered by JSON Server as a mock API. It allows users to browse products, add them to the cart, and simulate a checkout process.
