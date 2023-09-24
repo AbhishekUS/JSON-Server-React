@@ -51,16 +51,10 @@ This project uses JSON Server to mock the API. Follow these steps to start the s
 
 1. Open a new terminal window.
 
-2. Navigate to the `db` folder:
+2. Start the JSON Server:
 
 ```bash
-cd db
-```
-
-3. Start the JSON Server:
-
-```bash
-json-server --watch db.json --port 8000
+json-server --watch data/db.json --port 8000
 ```
 
 ### Starting the React App
