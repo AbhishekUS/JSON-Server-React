@@ -61,13 +61,7 @@ json-server --watch db.json --port 8000
 
 1. Open a new terminal window.
 
-2. Navigate back to the root folder of the project:
-
-```bash
-cd ..
-```
-
-3. Start the React app:
+2. Start the React app:
 
 ```bash
 npm start
