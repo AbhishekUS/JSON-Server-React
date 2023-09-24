@@ -51,13 +51,7 @@ This project uses JSON Server to mock the API. Follow these steps to start the s
 
 1. Open a new terminal window.
 
-2. Navigate to the `db` folder:
-
-```bash
-cd db
-```
-
-3. Start the JSON Server:
+2. Start the JSON Server:
 
 ```bash
 json-server --watch db.json --port 8000
